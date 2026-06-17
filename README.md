@@ -16,7 +16,6 @@
 <div align="center">
 
 ![Profile Views](https://komarev.com/ghpvc/?username=bobbyunknown&color=70A5FD&style=for-the-badge&label=PROFILE+VIEWS)
-[![GitHub followers](https://img.shields.io/github/followers/bobbyunknown?style=for-the-badge&color=70A5FD&labelColor=1c1917&logo=github)](https://github.com/bobbyunknown?tab=followers)
 [![GitHub stars](https://img.shields.io/github/stars/bobbyunknown?style=for-the-badge&color=F7CC46&labelColor=1c1917&logo=github)](https://github.com/bobbyunknown?tab=repositories)
 
 </div>
