@@ -6,7 +6,7 @@
 <!-- Typing SVG -->
 <div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=Pemula+gabuter+yang+sok+sibuk+%F0%9F%98%AD;Ngulik+Shell+Script+kalau+lagi+Cemerlang+%F0%9F%90%A7;Go+%7C+Shell+%7C+JavaScript;Ngoding+dulu%2C+pusing+belakangan!" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=Pemula+gabuter+yang+sok+sibuk+%F0%9F%98%AD;Ngulik+Ngulik+Shell+Script+kalau+lagi+Cemerlang+%F0%9F%90%A7;Go+%7C+Shell+%7C+JavaScript;Ngoding+dulu%2C+pusing+belakangan!" alt="Typing SVG" />
   </a>
 </div>
 
@@ -102,41 +102,4 @@
 <h2 align="left" id="Robbyambrosee-stats">Activities & Stats</h2>
 
 > My activities and statistics on GitHub.
-
-<table>
-  <tr>
-    <td align="center" width="50%">
-      <a href="#Robbyambrosee-stats">
-        <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api?username=Robbyambrosee&rank_icon=github&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000&show_icons=true&hide=issues,contribs&count_private=true&include_all_commits=true" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api?username=Robbyambrosee&rank_icon=github&theme=buefy&show_icons=true&hide_border=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true&bg_color=00000000" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api?username=Robbyambrosee&rank_icon=github&theme=buefy&show_icons=true&hide_border=true&text_bold=false&hide=issues,contribs&count_private=true&include_all_commits=true&bg_color=00000000" alt="Stats" />
-        </picture>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="#Robbyambrosee-stats">
-        <picture>
-          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbyambrosee&layout=compact&theme=dracula&text_bold=false&hide_border=true&bg_color=00000000&hide=html" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbyambrosee&layout=compact&theme=buefy&text_bold=false&hide_border=true&bg_color=00000000&hide=html" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Robbyambrosee&layout=compact&theme=buefy&text_bold=false&hide_border=true&hide=html" alt="Top Langs" />
-        </picture>
-      </a>
-    </td>
-  </tr>
-  <tr />
-  <tr>
-    <td align="center" width="50%">
-      <a href="#Robbyambrosee-stats">
-        <picture>
-          <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Robbyambrosee&theme=dracula&border_radius=0&background=FFFFFF00&hide_border=true" media="(prefers-color-scheme: dark)" />
-          <source srcset="https://github-readme-streak-stats.herokuapp.com/?user=Robbyambrosee&theme=buefy&border_radius=0&background=FFFFFF00&hide_border=true" media="(prefers-color-scheme: light), (prefers-color-scheme: no-preference)" />
-          <img src="https://github-readme-streak-stats.herokuapp.com/?user=Robbyambrosee&theme=buefy&border_radius=0&background=FFFFFF00&hide_border=true" alt="Contributions Streak" />
-        </picture>
-      </a>
-    </td>
-    <td align="center" width="50%">
-      <a href="#Robbyambrosee-stats"><img src="https://github-profile-trophy.vercel.app/?username=Robbyambrosee&theme=dracula&row=2&column=3&margin-w=6&margin-h=6&no-bg=true&no-frame=true" alt="Trophies" /></a>
-    </td>
-  </tr>
-</table>
+> HARDOLIN.
