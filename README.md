@@ -1,6 +1,27 @@
-<p align="center">
-  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=300&color=0:282a36,100:bd93f9&text=ðŸ‘‹%20Hello%20there!%20I'm%20Wellington&textBg=false&fontColor=ffffff&fontSize=36&fontAlignY=35&desc=Independent%20Developer%20&%20Systems%20Analyst&section=header&animation=fadeIn&descAlignY=50" />
-</p>
+<!-- Header Banner animation -->
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Robby%20Ambrose&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32&desc=Pemula%20Gabuter%20dari%20Indonesia%20%F0%9F%87%AE%F0%9F%87%A9&descAlignY=55&descAlign=50" width="100%"/>
+</div> 
+
+<!-- Typing SVG -->
+<div align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=70A5FD&center=true&vCenter=true&random=false&width=500&lines=Pemula+gabuter+yang+sok+sibuk+%F0%9F%98%AD;Ngulik+Shell+Script+kalau+lagi+Cemerlang+%F0%9F%90%A7;Go+%7C+Shell+%7C+JavaScript;Ngoding+dulu%2C+pusing+belakangan!" alt="Typing SVG" />
+  </a>
+</div>
+
+<br/>
+
+<!-- Visitor + Social Stats -->
+<div align="center">
+
+![Profile Views](https://komarev.com/ghpvc/?username=bobbyunknown&color=70A5FD&style=for-the-badge&label=PROFILE+VIEWS)
+[![GitHub followers](https://img.shields.io/github/followers/bobbyunknown?style=for-the-badge&color=70A5FD&labelColor=1c1917&logo=github)](https://github.com/bobbyunknown?tab=followers)
+[![GitHub stars](https://img.shields.io/github/stars/bobbyunknown?style=for-the-badge&color=F7CC46&labelColor=1c1917&logo=github)](https://github.com/bobbyunknown?tab=repositories)
+
+</div>
+
+---
 
 - ðŸ’¼ I'm an **Developer** and **Systems Analyst**
 
