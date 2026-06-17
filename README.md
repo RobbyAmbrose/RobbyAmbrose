@@ -18,17 +18,19 @@
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Robbyambrosee) 
 
-<h2 align="left" id="Robbyambrosee-pin">Pinned Repositories</h2>
+<h2 align="left" id="Robbyambrosee-pin">## 🛠️ Tech Stack</h2>
 
-<table>
-  <tr>
-    <td align="center" width="50%">
-       <a href="https://github.com/Robbyambrosee/WaEnhancer">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=Robbyambrosee&repo=WaEnhancer&theme=tokyonight" />
-    </a>
-    </td>
-  </tr>
-</table>
+
+<div align="center">
+
+### OS
+![macOS](https://img.shields.io/badge/macOS-000000?style=for-the-badge&logo=apple&logoColor=white)
+![GNU Linux](https://img.shields.io/badge/GNU%20Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+### Editor
+![VSCode](https://img.shields.io/badge/VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+
+![GitHub Stats](https://github-readme-stats-fast.vercel.app/api/top-langs/?username=pranesh-2005&layout=compact&theme=github_dark)
 
 <h2 align="left" id="Robbyambrosee-tech">Favorite Tech</h2>
 
