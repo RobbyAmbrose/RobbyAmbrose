@@ -102,4 +102,7 @@
 <h2 align="left" id="Robbyambrosee-stats">Activities & Stats</h2>
 
 > My activities and statistics on GitHub.
+> Freelancer
+> Singing & Guitaris
+> Ilusion
 > HARDOLIN.
