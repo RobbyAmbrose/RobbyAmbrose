@@ -18,7 +18,7 @@
 
 [<img alt="Telegram" src="https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">](https://t.me/Robbyambrosee) 
 
-<h2 align="left" id="Robbyambrosee-pin">## 🛠️ Tech Stack</h2>
+<h2 align="left" id="Robbyambrosee-pin"> 🛠️ Tech Stack</h2>
 
 
 <div align="center">
